@@ -1,0 +1,18 @@
+Pore Size Analysis
+Image Resolution: 2560x1920 pixels
+Magnification: 100x
+Pixel Size: 0.4912 nm per pixel
+Average Pore Size: 0.9737 nm
+
+Pore Size Distribution (nm)
+Pore Size (nm)	Probability Density
+0.0591	0.0035
+0.1772	0.0041
+0.2954	0.0031
+0.4136	0.0046
+0.5322	0.0079
+0.6499	0.0506
+0.7686	0.2522
+0.8867	0.9048
+1.0049	2.3089
+1.1221	0.6125

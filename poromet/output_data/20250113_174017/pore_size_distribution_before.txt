@@ -1,0 +1,14 @@
+Pore Size Distribution Before Threshold Adjustment (nm)
+Pore Size (nm)	Probability Density
+-2.7000	0.0000
+-2.1000	0.0000
+-1.5000	0.0000
+-0.9000	0.0000
+-0.3000	0.0000
+0.3000	10.0000
+0.9000	0.0000
+1.5000	0.0000
+2.1000	0.0000
+2.7000	0.0000
+
+Average Pore Size (nm): 0.3000
